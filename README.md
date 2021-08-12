@@ -11,9 +11,6 @@
 	<li>
       <a href="#getting-started">Getting Started</a>
     </li>
-	<li><a href="#file-structure">File Structure</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -45,7 +42,7 @@ Usage</h2>
 <table>
 <thead>
 <tr>
-<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/DayvChimes/TeslaApp/blob/main/screenshots/teslaapp.gif"><img src="https://github.com/DayvChimes/TeslaApp/blob/main/screenshots/teslaapp.gif" width="200/" style="max-width:100%;" data-stories_space_upload_el_handled="1"></a></th>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/DayvChimes/TeslaApp/blob/main/screenshots/teslaapp.gif"><img src="https://github.com/DayvChimes/TeslaApp/blob/main/screenshots/teslaapp.gif" width="max-width:100%;" style="max-width:100%;" data-stories_space_upload_el_handled="1"></a></th>
 </tr>
 </thead>
 </table>
